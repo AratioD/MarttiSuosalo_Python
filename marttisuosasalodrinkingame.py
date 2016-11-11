@@ -2,7 +2,7 @@
 if __name__ == "__Martti_Suosalo_Drinking_Game__":
     print "Automatic test description demo"
 
-""" Coded by Mr. Heroja Antti """
+
 """ Please read the full specification from Specification.py file """
 
 """ VARIABLES********************************************************************************************************"""
